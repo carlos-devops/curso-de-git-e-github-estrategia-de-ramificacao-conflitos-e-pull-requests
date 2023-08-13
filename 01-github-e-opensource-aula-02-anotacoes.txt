@@ -1,0 +1,21 @@
+Curso de Git e Github: estratégias de ramificação, Conflitos e Pull Requests
+
+01 GitHub e OpenSource
+
+01 Issues
+
+Está na hora de conversarmos um pouco mais sobre o GitHub, o gerenciador de repositórios remotos, muito utilizado pela comunidade de desenvolvimento open source, ou seja, em projetos de código aberto. Isso quer dizer que o código será disponibilizado em algum lugar público, como o GitHub, para que outras pessoas possam contribuir sugerindo melhorias, implementando-as, solicitar features específicas, e assim por diante, tornando o projeto efetivamente colaborativo.
+
+Você pode estar se perguntando: "vou desenvolver meu projeto e colocá-lo na internet para que todo mundo veja o meu código e copie meu trabalho?" Não é com esta mentalidade que o software livre funciona; quando desenvolvemos projetos de código aberto, pensamos nas vantagens e possibilidades que eles podem alcançar.
+
+Alguns exemplos de projetos com códigos simples e abertos são o VS Code, editor que temos utilizado, o npm, gerenciador de pacotes usado para baixar dependências no JavaScript, e até linguagens como o PHP. Eles trazem muitas vantagens, dentre as quais permitir a melhoria contínua do código de maneira colaborativa. Para mais detalhes, fica a recomendação de se pesquisar um pouco mais a fundo sobre o assunto; existem inclusive cursos sobre Linux que tocam em open source, palestras na internet, como a da Daiane Alves no evento Darkmira Tour PHP em 2019, que fala sobre como empreender utilizando software livre, é bastante interessante pesquisar sobre tudo isso.
+
+Voltando ao GitHub, que é a "casa" de muitos projetos open source, temos algumas boas funcionalidades, como as "Issues", ou "problemas", em tradução livre, em que é possível controlar as sugestões de melhorias, pedidos de novas funcionalidades, e assim por diante. Existem alguns projetos que utilizam as issues de forma até mais interessante, e como exemplo, está o repositório de uma comunidade chamada PHPRio, disponibilizado para cadastro de palestras ou palestrantes, o que é realizado por meio das issues do GitHub.
+
+Assim, podemos filtrar palestrantes através da lista de issues do projeto! Conseguimos gerenciar este tipo de conteúdo, que não é um "problema" propriamente dito. Voltando para o nosso caso, poderemos começar a pensar na colaboração de outras pessoas. Para tal, criaremos uma sugestão, dentro de "Issues", clicando no botão "New issue", algo possível de se fazer em qualquer repositório.
+
+O título poderá ser algo do tipo "Adicionar título na página", e a descrição, "A página contém apenas a lista dos cursos. Senti falta de um título.". Não é algo tão importante de início, mas vale ressaltar que é possível utilizar código markdown. Clicaremos no botão "Submit new issue" para enviar a issue, que passará a figurar em uma lista, a partir da qual, se você gerencia um projeto de software livre, conseguirá organizá-la por ordem de prioridade.
+
+Sugiro que deem uma olhada nos projetos que vocês utilizam para verificar se são de código aberto, e se forem, verifiquem suas listas de issues, talvez haja algo com que vocês possam contribuir. Durante este curso entenderemos um pouco melhor sobre como fazer isto, também. Vamos resolver o problema que acabamos de criar a seguir.
+
+https://github.com/PHPRio/CFP/issues
