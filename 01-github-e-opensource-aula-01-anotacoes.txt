@@ -1,0 +1,17 @@
+Curso de Git e Github: estratégias de ramificação, Conflitos e Pull Requests
+
+01 GitHub e OpenSource
+
+01 Introdução
+
+Olá, pessoal, boas vindas à Alura, meu nome é Vinicius Dias e os guiarei nessa continuação do curso sobre Git e GitHub, em que teremos uma visão geral sobre o que é open source e como contribuir para projetos do tipo, especificamente trabalhando com o GitHub.
+
+Veremos o que é uma issue, como abrir e fechá-la, como lidar com ela, de forma geral, o que pode ser um problema, um relatório de bug. Também entenderemos como gerenciar e lidar com pull request, ou seja, como enviar pedidos e sugestões de melhorias em código para projetos open source.
+
+Aprenderemos boas práticas para contribuir, como não utilizar tantos commits e conseguir unir vários deles em um só. Falaremos sobre um controle um pouco mais refinado e avançado de versionamento, gestão de conflitos, busca avançada de commits, formas de encontrar modificações, entre outros.
+
+Para continuarmos nessa parte de profissionalismo e boas práticas, falaremos sobre estratégias de branching, entendendo como organizar nossas branches de forma bem interessante. Depois, conheceremos ferramentas como o GitKraken, que nos auxiliará a executar estas alterações e boas práticas de Git e gerenciar o versionamento do nosso código de forma facilitada.
+
+Além disso, conheceremos os eventos, os git hooks, ações que são executadas em determinados eventos. Assim, com apenas um push, seremos capazes de executar o deploy de uma aplicação, disponível para acesso. Será um curso bem interessante, relativamente curto, espero que vocês tirem bastante proveito.
+
+Caso surja alguma dúvida no decorrer do curso, não hesite em abrir uma dúvida no fórum, e espero vocês no próximo vídeo para começarmos a colocar a mão na massa!
